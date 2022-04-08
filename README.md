@@ -61,5 +61,5 @@ https://challenge2019.isic-archive.com/
 - Divisão em Dados de Treino, Validação e Teste
 - Normalização
 
-
+**Segunda Etapa:**
 
