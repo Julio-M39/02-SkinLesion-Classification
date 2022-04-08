@@ -45,3 +45,21 @@ Porém, nosso intuido é o aprendizado, não iremos utilizar todas as classes, p
 Fonte de Dados:
 
 https://challenge2019.isic-archive.com/
+
+### Etapas do Projeto
+
+**Primeira Etapa:**
+
+- Carregando e Compreendendo os Dados
+- Limpeza e Transformação dos Dados
+- Limpeza e Transformação das Imagens
+- Balanceamento de Classe para Classificação Multiclasse
+- Preparação das Amostras de Teste
+- Preparação das Amostras de Treino
+- Redimensionamento das Imagens (treino/teste)
+- Visualização das Imagens
+- Divisão em Dados de Treino, Validação e Teste
+- Normalização
+
+
+
