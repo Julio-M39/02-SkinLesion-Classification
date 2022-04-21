@@ -63,3 +63,15 @@ https://challenge2019.isic-archive.com/
 
 **Segunda Etapa:**
 
+- Construção do modelo
+- Definição dos hiperparâmetros
+- Criação da arquitetura
+- Callbacks
+- Treinamento do modelo
+
+**Terceira Etapa:**
+
+- Carregamento do modelo
+- Previsões nos dados de teste
+- Matriz de confusão
+- Relatório de classificação
