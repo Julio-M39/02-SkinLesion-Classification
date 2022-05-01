@@ -74,3 +74,11 @@ https://challenge2019.isic-archive.com/
 - Previsões nos dados de teste
 - Matriz de confusão
 - Relatório de classificação
+
+### **Resultados**
+
+Para os resultados, plotamos uma matriz e um relatório de classificação que podem ser visto na imagem abaixo:
+
+<div>
+<img src="" width="1000px" />
+</div>
