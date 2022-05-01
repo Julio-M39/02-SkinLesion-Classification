@@ -1,5 +1,7 @@
 # SkinLesion-Classification
 
+OBS: Caso o Github não renderize o arquivo .ipynb <a href="https://nbviewer.org/github/Julio-M39/02-SkinLesion-Classification/blob/main/Classifica%C3%A7%C3%A3o%20de%20les%C3%B5es%20na%20pele.ipynb">Clique aqui!</a> 
+
 ### Definição do Projeto
 
 A dermoscopia é um dispositivo de observação óptica, pelo qual examinamos os detalhes das estruturas minúsculas das lesões de pele melanocítico. Os médicos geralmente usam dermoscopia para fazer um diagnóstico de nevo benigno e melanoma maligno. 
