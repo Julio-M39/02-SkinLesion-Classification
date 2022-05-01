@@ -80,5 +80,7 @@ https://challenge2019.isic-archive.com/
 Para os resultados, plotamos uma matriz e um relatório de classificação que podem ser visto na imagem abaixo:
 
 <div>
-<img src="" width="1000px" />
+<img src="https://user-images.githubusercontent.com/54995990/166153844-78f68ce1-adb8-4586-9673-0e4e195b82ce.png" width="980px" />
 </div>
+
+No geral, o modelo apresenta um bom resultado, embora ainda tenhamos espaço para melhorias. O modelo pode ser melhorado com uma otimização dos parâmetros utilizados na rede, modificações na arquitetura da rede, aplicação de pré-processamento nas imagens e utilização de técnicas como o aumento de dados. 
