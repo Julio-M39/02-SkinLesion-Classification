@@ -4,7 +4,7 @@ OBS: Caso o Github não renderize o arquivo .ipynb <a href="https://nbviewer.org
 
 ### Definição do Projeto
 
-A dermatoscópio é um dispositivo de observação óptica, pelo qual examinamos os detalhes das estruturas minúsculas das lesões de pele melanocítico. Os médicos geralmente usam dermoscopia para fazer um diagnóstico de nevo benigno e melanoma maligno. 
+O dermatoscópio é um dispositivo de observação óptica, pelo qual examinamos os detalhes das estruturas minúsculas das lesões de pele melanocítico. Os médicos geralmente usam dermoscopia para fazer um diagnóstico de nevo benigno e melanoma maligno. 
 
 **Classificação de lesões na pele**
 
